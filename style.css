@@ -1,0 +1,28 @@
+body{
+    background-color: yellow;
+}
+img{
+    width: 400px;
+    height: 350px;
+}
+img:hover{
+    border: 140px;
+    box-shadow: 0 6px 8px rgba(2, 2, 2, 0.2);
+}
+#camera{
+    border: dashed;
+    border-color: black;
+    width: 500px;
+    height: 400px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+}
+h3{
+    font: bold;
+    font-family: sans-serif;
+}
